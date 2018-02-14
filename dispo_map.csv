@@ -1,0 +1,29 @@
+,discharge_disposition,discharge_disposition_map
+0,HOM,01 - Discharge to Home or Self Care (Routine Discharge)
+1,1,01 - Discharge to Home or Self Care (Routine Discharge)
+2,,
+3,TH,TH
+4,4,06 - Discharged/Transferred to Home Under Care of Organized Home Health Service Organization in Anticipation of Covered Skilled Care
+5,,other
+6,SNF,03 - Discharged/Transferred to a Skilled Nursing Facility (SNF) with Medicare Certification in Anticipation of Skilled Care
+7,2,03 - Discharged/Transferred to a Skilled Nursing Facility (SNF) with Medicare Certification in Anticipation of Skilled Care
+8,EXP,20 - Expired
+9,RHB,RHB
+10,R,62 - Discharged/Transferred to an Inpatient Rehabilitation Facility Including Distinct Part Units of a Hospital
+11,8,20 - Expired
+12,1,01 - Discharge to Home or Se
+13,HOM,01 - Discharge to Home or Se
+14,6,07 - Left Against Medical Advice or Discontinued Care
+15,PSY,65 - Discharged/Transferred to a Psychiatric Hospital or Psychiatric Distinct Part Unit of a Hospital
+16,AMA,07 - Left Against Medical Advice or Discontinued Care
+17,S,02 - Discharged/Transferred to a Short Term General Hospital for Inpatient Care
+18,Routine,Routine
+19,M,02 - Discharged/Transferred to a Short Term General Hospital for Inpatient Care
+20,Home,Home
+21,HSH,40 - 42 Hospice Patient discharge status Codes - Hospice Claims Only (TOBs: 81X & 82X)
+22,ACF,02 - Discharged/Transferred to a Short Term General Hospital for Inpatient Care
+23,K,50 and 51 - Discharged/Transferred to a Hospice
+24,J,40 - 42 Hospice Patient discharge status Codes - Hospice Claims Only (TOBs: 81X & 82X)
+25,HMF,HMF
+26,LTC,63 - Discharged/Transferred to Long Term Care Hospitals (LTCHs)
+27,NDR,NDR
